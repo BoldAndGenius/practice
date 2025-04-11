@@ -9,3 +9,6 @@ def test_three():
 
 def test_four():
     assert True
+
+def test_five():
+    assert True
